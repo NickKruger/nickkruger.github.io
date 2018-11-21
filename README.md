@@ -1,2 +1,4 @@
 # nickkruger.github.io
-Personal Full Stack Web Developer
+Personal Website for Nick Kruger
+Full Stack Web Developer
+Worland, Wyoming
